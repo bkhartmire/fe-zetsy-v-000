@@ -67,3 +67,7 @@ p {
 #learn:hover {
   text-decoration: underline;
 }
+
+footer {
+  float: right;
+}
