@@ -68,5 +68,6 @@ p {
 }
 
 #copy {
-  float: right;
+  position: absolute;
+  right: 0px
 }
