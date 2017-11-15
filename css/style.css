@@ -76,7 +76,7 @@ footer {
   content: ".";
   display: block;
   clear: both;
-  visibikity: hidden;
+  visibility: hidden;
   height: 0;
   line-height: 0;
 }
