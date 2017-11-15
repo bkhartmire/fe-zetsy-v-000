@@ -68,4 +68,7 @@ p {
   text-decoration: underline;
 }
 
-
+#copy {
+  position: absolute;
+  right: 0;
+}
