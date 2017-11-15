@@ -71,3 +71,12 @@ p {
 footer {
   float: right;
 }
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibikity: hidden;
+  height: 0;
+  line-height: 0;
+}
